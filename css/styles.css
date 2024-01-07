@@ -26,7 +26,7 @@ body {
 
 .nav-links a {
     text-decoration: none;
-    color: white;
+    color: lightgreen;
     font-weight: bold;
 }
 
@@ -52,6 +52,10 @@ button {
     cursor: pointer;
 }
 
+.search-bar button img {
+    max-width: 20px; /* Ajusta el tamaño máximo según tus necesidades */
+    max-height: 20px;
+}
 .cart-icon img {
-    height: 30px; /* Ajusta la altura según tus necesidades */
+    height: 30px; /* Ajusta la altura según tus necesidades *
 }
