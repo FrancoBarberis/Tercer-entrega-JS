@@ -18,6 +18,10 @@ a{
     background-color: lightgreen;
 }
 
+.producto img {
+    max-height: 30vh;
+    width: auto;
+}
 aside {
     padding: 2 rem;
     color: white;
